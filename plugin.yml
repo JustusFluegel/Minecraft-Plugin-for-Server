@@ -1,0 +1,32 @@
+name: Hypergod
+version: 1.0.1
+author: ReaktoringHD
+main: de.ReaktoringHD.YoutubeServer.YoutubeServer
+
+commands:
+  kill:
+    description: Toete jemanden
+  cca:
+    description: Leere den Chat fuer alle 
+  chatclearall:
+    description: Das gleiche wie /cca
+  cc:
+    description: Leere den Chat eines Spielers
+  chatclear:
+    description: Das gleiche wie /cc
+  setspawn:
+    description: Setzt den Spawn von allen Spielern
+  spawn:
+    description: Teleteportiert einen zum Spawn
+  money:
+    description: Gibt / Setzt / Loescht Coins
+  blau:
+    description: Only for Admins / Owners
+  l:
+    description: Teleteportiert einen zum Spawn
+  lobby:
+    description: Teleteportiert einen zum Spawn
+  hub:
+    description: Teleteportiert einen zum Spawn
+  stp:
+    description: Setzt einzelwarps
